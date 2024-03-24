@@ -1,12 +1,12 @@
 /*
 Author: Tenny Akihary
-Class: CSC 191
-Project Lab 5
+Class: *** ***
+Project Lab
 Purpose: To allow two users to play tic, tac, toe using a 2D array.
  */
-package tennyakiharylab5;
+package TicTacToe;
 import java.util.Scanner;
-public class TennyAkiharyLab5 {
+public class TicTacToe {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         boolean gameover = true; //to quit the program/game loop
