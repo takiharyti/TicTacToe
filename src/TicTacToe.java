@@ -1,6 +1,5 @@
 /*
 Author: Tenny Akihary
-Date: 21 February 2018
 Class: CSC 191
 Project Lab 5
 Purpose: To allow two users to play tic, tac, toe using a 2D array.
